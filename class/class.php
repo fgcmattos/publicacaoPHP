@@ -1,0 +1,1 @@
+<?php echo "uma classe"; ?>
