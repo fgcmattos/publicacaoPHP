@@ -1,6 +1,6 @@
 <head>
 	<body>
-		<h1>Servidor apache ok!</h1>
+		<h1>Servidor apache ok!=)</h1>
 		<?php 
 //ini_set('display_errors', 1);
 			try
