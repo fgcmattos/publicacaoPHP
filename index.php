@@ -7,7 +7,7 @@
 			{
 				$connection = new PDO("mysql:host=191.96.31.192;dbname=teste","externo","96159237");
 				$connection->exec("set names utf8");
-				echo "<b>Conxão com MySQL bem sucedida!</b><br>";
+				echo "<b>Conxão com MySQL bem sucedida!!</b><br>";
 				
 			}
 			catch(PDOException $e)
